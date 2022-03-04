@@ -3,5 +3,8 @@
     <territory color="872412928">
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7100" z="9700" r="80"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7139.87" z="9750" r="100"/>
+
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6010.14" z="9765.13" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6009.14" z="9765.13" r="100"/>
     </territory>
 </territory-type>
