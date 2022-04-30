@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+
 	<event name="VehicleCivilianSedan">
 		<pos x="4883.06" z="6472.1" a="0.0" />
 		<pos x="4730.7" z="9337.87" a="0.0" />
@@ -31,8 +32,10 @@
 		<zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
 	</event>
     <event name="StaticContaminatedArea">
-		<zone smin="0" smax="0" dmin="5" dmax="8" r="75" />
-		<pos x="6034" z="7823" />
+		<zone smin="0" smax="0" dmin="4" dmax="6" r="80" />
+		<pos x="6379.07" z="2925.32" /> <!--   RESEARCH FACILITY  -->
+		<pos x="2913.31" z="4202.21" /> <!--   SWAMP   -->
+
 	</event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
