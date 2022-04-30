@@ -2,7 +2,7 @@
 <!--DayZ CE tool project file-->
 <zg-config>
     <!--GUI props-->
-    <selected row="1"/>
+    <selected row="0"/>
     <global>
         <background file="map.png" rgba="184549376"/>
         <layer size="1024"/>
@@ -38,8 +38,8 @@
     <!--Layers-->
     <layers>
         <layer usage_flags="0" value_flags="0" color="3133702656" visible="1" name="Tier4"/>
-        <layer usage_flags="0" value_flags="0" color="1711293387" visible="1" name="Tier3"/>
-        <layer usage_flags="0" value_flags="0" color="4294945280" visible="1" name="Tier2"/>
-        <layer usage_flags="0" value_flags="0" color="4289374720" visible="1" name="Tier1"/>
+        <layer usage_flags="0" value_flags="0" color="1711293387" visible="0" name="Tier3"/>
+        <layer usage_flags="0" value_flags="0" color="4294945280" visible="0" name="Tier2"/>
+        <layer usage_flags="0" value_flags="0" color="4289374720" visible="0" name="Tier1"/>
     </layers>
 </zg-config>
