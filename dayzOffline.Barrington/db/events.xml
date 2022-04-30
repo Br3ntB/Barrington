@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
    <event name="AmbientHen">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <min>8</min>
-        <max>15</max>
+        <max>20</max>
         <lifetime>33</lifetime>
         <restock>15</restock>
         <saferadius>40</saferadius>
@@ -418,7 +418,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_NBC_Grey"/>
         </children>
@@ -435,7 +435,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="3" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
         </children>
@@ -697,9 +697,9 @@
     </event>
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
-        <min>2</min>
-        <max>4</max>
-        <lifetime>2100</lifetime>
+        <min>4</min>
+        <max>6</max>
+        <lifetime>333000</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
@@ -709,7 +709,7 @@
         <limit>parent</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
+            <child lootmax="0" lootmin="0" max="6" min="4" type="ContaminatedArea_Dynamic"/>
         </children>
     </event>
     <event name="StaticFridgeTest">
