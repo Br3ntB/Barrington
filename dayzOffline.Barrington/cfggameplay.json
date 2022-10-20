@@ -21,7 +21,7 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 1,
+		"lightingConfig": 2,
 		"objectSpawnersArr": []
 	},
 	"BaseBuildingData":
