@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="864420070">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7659.38" z="7229.31" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6658.76" z="8652.89" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1123" z="6011" r="60"/> <!--  Addersfield  -->
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="651" z="7167" r="60"/> <!--  West Hydeswor  -->
+    </territory>
+</territory-type>
