@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="856817408">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2494.19" z="9381.62" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6838.63" z="9235.42" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4454.13" z="6675.73" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3948.72" z="7653.06" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2311.26" z="8320.21" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6611.26" z="9223.72" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3948.72" z="7653.06" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2285.12" z="9855.55" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1098" z="7840" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1736" z="5185" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6440" z="3588" r="50"/>
+
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1765.25" z="5277.31" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8262.66" z="8923.37" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3772.91" z="6617.39" r="60"/>
+
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7372.79" z="7791.49" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6589.86" z="6871.72" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6388.35" z="8896.12" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7594.34" z="9438.24" r="40"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="866.90" z="2626.26" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2028.10" z="1725.97" r="50"/>
+    </territory>
+
+</territory-type>

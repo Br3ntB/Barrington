@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>
+
+	<event name="VehicleCivilianSedan">
+		<pos x="4883.06" z="6472.1" a="0.0" />
+		<pos x="4730.7" z="9337.87" a="0.0" />
+		<pos x="4513.27" z="9084.27" a="90.0" />
+	</event>
+	<event name="VehicleSedan02">
+		<pos x="4128.84" z="8997.75" a="0.0" />
+		<pos x="5806.42" z="9035.11" a="0.0" />
+		<pos x="8720.76" z="9350.03" a="0.0" />
+	</event>
+	<event name="VehicleHatchback02">
+		<pos x="3887.29" z="9379.89" a="0.0" />
+		<pos x="5155.09" z="7530.3" a="0.0" />
+		<pos x="6816.87" z="8591.08" a="0.0" />
+		<pos x="3989.67" z="7059.19" a="0.0" />
+	</event>
+    <event name="StaticHeliCrash">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="1525.70" z="9577.14" a="-1" />
+		<pos x="5882.33" z="8021.10" a="-1" />
+		<pos x="6554.73" z="9974.70" a="-1" />
+		<pos x="2198.43" z="5022.90" a="-1" />
+		<pos x="4219.45" z="5449.45" a="-1" />
+		<pos x="7076.38" z="4499.92" a="-1" />
+		<pos x="1842.10" z="7541.50" a="-1" />
+		<pos x="7088.10" z="6150.77" a="-1" />
+		<pos x="1563.85" z="498.33" a="-1" />
+		<pos x="417.67" z="6731.25" a="-1" />
+		<pos x="3628.72" z="4179.51" a="-1" />
+    </event>>
+    <event name="StaticSantaCrash">
+		<zone smin="1" smax="1" dmin="1" dmax="1" r="45" />
+		<pos x="558.859619" z="12918.953125" a="-1" />
+    </event>
+	<event name="StaticChristmasTree">
+		<pos x="6560.29" z="2462.12" a="0.0" />
+	</event>
+    <event name="StaticBonfire">
+		<zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
+	</event>
+    <event name="StaticContaminatedArea">
+		<zone smin="0" smax="0" dmin="2" dmax="2" r="70" />
+		<pos x="6379.07" z="2925.32" /> <!--   RESEARCH FACILITY  -->
+		<pos x="2913.31" z="4202.21" /> <!--   SWAMP   -->
+
+<!--		<pos x="1533.30" z="9320.67" />    MIC   -->
+<!--		<pos x="4594.62" z="9412.74" />    BARRINGTON   -->
+<!--		<pos x="3927.22" z="9578.25" />    BARRINGTON   -->
+<!--		<pos x="4316.72" z="9284.66" />    BARRINGTON   -->
+<!--		<pos x="5232.66" z="7626.94" />    PINER   -->
+<!--		<pos x="6708.05" z="7383.16" />    WOLVES PASS   -->
+<!--		<pos x="7249.60" z="8079.17" />    OVERGROWN CABINS   -->
+<!--		<pos x="7308.94" z="6916.01" />    SATIVA   -->
+<!--		<pos x="4946.94" z="6488.45" />   ARKALEY   -->
+<!--		<pos x="3983.06" z="7115.90" />    WITSEND  -->
+<!--		<pos x="4418.10" z="5420.36" />   SLAIN CASTLE   -->
+<!--		<pos x="7948.21" z="8140.63" />    HARMONY   -->
+<!--		<pos x="926.03" z="7096.67" />    WEST HYDESWOR   -->
+<!--		<pos x="533.31" z="6126.30" />    PORT LEYMONT  -->
+<!--		<pos x="1522.31" z="6126.30" />    ADDERSFIELD   -->
+<!--		<pos x="6522.56" z="4437.69" />   OLIVER   -->
+<!--		<pos x="6665.73" z="10018.19" />   ZONE 18  -->
+	</event>
+
+    <event name="Loot" />
+    <event name="VehicleOffroadHatchback">
+		<pos x="9007.12" z="8347.92" a="0.0" />
+		<pos x="7343.67" z="6975.87" a="0.0" />
+		<pos x="7732.31" z="9908.65" a="0.0" />
+    </event>
+    <event name="StaticPoliceCar">
+		<zone smin="1" smax="4" dmin="4" dmax="5" r="45" />
+<!--   BADGER       --> 
+<pos x="9046.29" z="8385.45" a="336.442993" />
+
+		<pos x="6727.11" z="8012.75" a="336.442993" />
+		<pos x="5978.18" z="7234.57" a="336.442993" />
+		<pos x="4669.44" z="7284.57" a="336.442993" />
+		<pos x="4016.99" z="6126.40" a="336.442993" />
+		<pos x="5716.50" z="3777.80" a="336.442993" />
+		<pos x="1126.46" z="6472.97" a="336.442993" />
+		<pos x="3154.30" z="8847.11" a="336.442993" />
+    </event>
+	<event name="ItemPlanks">
+		<pos x="13076.671875" z="8285.913086" a="1.301008" />
+    </event>
+    <event name="VehicleTruck01">
+		<pos x="7692.62" z="8030.58" a="0.0" />
+		<pos x="7826.56" z="7413.54" a="0.0" />
+		<pos x="3593.31" z="8129.48" a="0.0" />
+		<pos x="1793.99" z="8687.03" a="0.0" />
+	</event>
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
+</eventposdef>
