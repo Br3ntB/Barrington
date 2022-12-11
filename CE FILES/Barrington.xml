@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DayZ CE tool project file-->
+<zg-config>
+    <!--GUI props-->
+    <selected row="0"/>
+    <global>
+        <background file="map.png" rgba="0"/>
+        <layer size="1024"/>
+        <world size="10240"/>
+    </global>
+    <areas>
+        <usages>
+            <usage name="Military"/>
+            <usage name="Police"/>
+            <usage name="Medic"/>
+            <usage name="Firefighter"/>
+            <usage name="Industrial"/>
+            <usage name="Farm"/>
+            <usage name="Coast"/>
+            <usage name="Town"/>
+            <usage name="Village"/>
+            <usage name="Hunting"/>
+            <usage name="Office"/>
+            <usage name="School"/>
+            <usage name="Prison"/>
+            <usage name="Lunapark"/>
+            <usage name="SeasonalEvent"/>
+            <usage name="ContaminatedArea"/>
+        </usages>
+        <values>
+            <value name="Tier1"/>
+            <value name="Tier2"/>
+            <value name="Tier3"/>
+            <value name="Tier4"/>
+        </values>
+    </areas>
+    <brush color="3254779903" outline="1" outline_color="4278190080" outline_width="1" size="17"/>
+    <!--Layers-->
+    <layers>
+        <layer usage_flags="32769" value_flags="0" color="2110292480" visible="0" name="Tier4"/>
+        <layer usage_flags="1" value_flags="0" color="1711293387" visible="0" name="Tier3"/>
+        <layer usage_flags="0" value_flags="0" color="2197793280" visible="0" name="Tier2"/>
+        <layer usage_flags="0" value_flags="0" color="2997529088" visible="0" name="Tier1"/>
+    </layers>
+</zg-config>
